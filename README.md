@@ -2,7 +2,7 @@
 
 ## 1. Objective
 
-The goal of this project is to analyze the relationship between individual medical insurance costs of people with demographic, lifestyle, and health-related factors
+The goal of this project is to analyze the relationship between individual medical insurance costs of people with demographic, lifestyle, and health-related factors.
 
 The analysis will focus on building a linear regression model to determine whether demographic, lifestyle, and health-related factors significantly influence medical insurance costs in the US.
 
