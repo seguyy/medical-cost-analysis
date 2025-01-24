@@ -6,7 +6,7 @@ The goal of this project is to analyze the relationship between individual medic
 
 The analysis will focus on building a linear regression model to determine whether demographic, lifestyle, and health-related factors significantly influence medical insurance costs in the US.
 
-## 2. Objective
+## 2. Dataset
 
 Source: [Kaggle - Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 
